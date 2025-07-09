@@ -1,0 +1,43 @@
+body {
+    background-color: #F9C265;
+    font-family: "Montserrat", sans-serif;
+}
+.container1 {
+    color: black;
+    position: relative;
+    left: 125px;
+    font-weight: 700; 
+}
+.container1 > h3:nth-child(2) {
+    display: inline-block;
+    font-weight: 600;
+    position: relative;
+    left: 50px;
+}
+.container1 > h3:nth-child(3) {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    font-weight: 600;
+}
+.container1 > h3:nth-child(4) {
+    display: inline-block;
+    position: relative;
+    left: 1000px;
+    font-weight: 600;
+}
+.button {
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    position: relative;
+    left: 1370px;
+    bottom: 115px;
+    font-weight: 400;
+    font-style: normal;
+}
+.img {
+    position: relative;
+    left: 640px;
+    bottom: 70px;
+}
