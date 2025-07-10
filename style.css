@@ -1,43 +1,102 @@
-body {
-    background-color: #F9C265;
-    font-family: "Montserrat", sans-serif;
-}
-.container1 {
+a {
+    font-family: "Montserrat";
+    text-decoration: none;
     color: black;
+    font-weight: 600;
     position: relative;
     left: 125px;
-    font-weight: 700; 
+    font-size: 20px;
+}
+.container1 {
+    width: 100%;
+    padding: 10px;
+    color: #ffffff;
+    margin-top: 50px;
+    background-color: #F9C265;
+    position: relative;
+    bottom: 50px;
+    right: 10px;
+    color: black;
 }
 .container1 > h3:nth-child(2) {
+    font-family: "Montserrat";
     display: inline-block;
     font-weight: 600;
     position: relative;
-    left: 50px;
+    left: 200px;
+    font-size: 20px;
 }
 .container1 > h3:nth-child(3) {
+    font-family: "Montserrat";
     display: inline-block;
     position: relative;
-    left: 100px;
+    left: 270px;
     font-weight: 600;
+    font-size: 20px;
 }
 .container1 > h3:nth-child(4) {
+    font-family: "Montserrat";
     display: inline-block;
     position: relative;
-    left: 1000px;
+    left: 1080px;
     font-weight: 600;
+    font-size: 20px;
 }
 .button {
+    font-family: "Montserrat";
     border-radius: 20px;
     color: white;
     background-color: black;
     position: relative;
-    left: 1370px;
-    bottom: 115px;
+    left: 1080px;
     font-weight: 400;
-    font-style: normal;
+    font-size: 15px;
 }
 .img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     position: relative;
-    left: 640px;
-    bottom: 70px;
+    bottom: 135px;
+}
+.dahon {
+    width: 592.67px;
+    height: 580px;
+    position: relative;
+    left: 754px;
+    bottom: 120px;
+}
+.first {
+    font-family: "Montserrat";
+    position: relative;
+    bottom: 700px;
+    font-size: 70px;
+    font-weight: 600;
+    left: 125px;
+}
+.learn {
+    font-family: "pattaya";
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 100px;
+    background-color: #F9C265;
+    width: 270px;
+    padding: 10px;
+    position: relative;
+    left: 125px;
+    bottom: 730px;
+    font-weight: 400;
+    font-size: 70px;
+}
+.second {
+    font-family: "Montserrat";
+    text-align: justify;
+    font-size: 21px;
+    width: 474px;
+    height: 96px;
+    position: relative;
+    left: 125px;
+    bottom: 750px;
+    font-style: medium;
+    font-weight: 500;
 }
