@@ -42,6 +42,43 @@ a {
     font-weight: 600;
     font-size: 20px;
 }
+.container2 {
+    font-family: "Montserrat";
+    line-height: 150%;
+    letter-spacing: 3%;
+}
+.container2 > h2:nth-child(1) {
+    font-family: "Montserrat";
+    position: relative;
+    left: 165px;
+    bottom: 803px;
+    font-weight: 700;
+    font-size: 21px;
+}
+.container2 > h2:nth-child(2) {
+    font-family: "Montserrat";
+    position: relative;
+    left: 165px;
+    bottom: 797px;
+    font-weight: 700;
+    font-size: 21px;
+}
+.container2 > h2:nth-child(3) {
+    font-family: "Montserrat";
+    position: relative;
+    left: 165px;
+    bottom: 790px;
+    font-weight: 700;
+    font-size: 21px;
+}
+.container3 {
+    background-color: rgba(249, 194, 101, 1);
+    width: 1246.13px;
+    height: 373px;
+    position: relative;
+    left: 136.87px;
+    border-radius: 40px;
+}
 .button {
     font-family: "Montserrat";
     border-radius: 20px;
@@ -99,4 +136,25 @@ a {
     bottom: 750px;
     font-style: medium;
     font-weight: 500;
+}
+.check {
+    position: relative;
+    width: 36px;
+    height: 36px;
+    left: 125px;
+    bottom: 750px;
+}
+.check1 {
+    position: relative;
+    width: 36px;
+    height: 36px;
+    left: 85px;
+    bottom: 703px;
+}
+.check2 {
+    position: relative;
+    width: 36px;
+    height: 36px;
+    left: 45px;
+    bottom: 655px;
 }
