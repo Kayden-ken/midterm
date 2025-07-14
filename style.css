@@ -71,13 +71,16 @@ a {
     font-weight: 700;
     font-size: 21px;
 }
-.container3 {
-    background-color: rgba(249, 194, 101, 1);
-    width: 1246.13px;
-    height: 373px;
+.okay {
     position: relative;
-    left: 136.87px;
-    border-radius: 40px;
+    left: 106px;
+    bottom: 1650px;
+}
+.bg {
+    width: 1550px;
+    height: 962px;
+    position: relative;
+    bottom: 400px; 
 }
 .button {
     font-family: "Montserrat";
@@ -157,4 +160,18 @@ a {
     height: 36px;
     left: 45px;
     bottom: 655px;
+}
+.taw {
+    position: relative;
+    left: 50px;
+    width: 380.68px;
+    height: 318.29px;
+    bottom: 247px;
+}
+.vec{
+    width: 67.38px;
+    height: 82.66px;
+    position: relative;
+    left: 830px;
+    bottom: 570px;
 }
