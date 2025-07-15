@@ -302,7 +302,280 @@ a {
 .improve > h1 {
     font-family: "Montserrat";
     position: relative;
+    bottom: 100px;
     left: 120px;
     font-weight: 600;
     font-size: 81px;
+}
+.shing {
+    width: 77.22px;
+    height: 67px;
+    position: relative;
+    left: 71px;
+}
+.skills {
+    background-color: black;
+    width: 279px;
+    height: 110px;
+    position: relative;
+    left: 93px;
+    bottom: 943px;
+    border-radius: 90px;
+}
+.skills > h1 {
+    color: RGB(249, 194, 101);
+    font-family: "pattaya";
+    font-weight: 400;
+    font-size: 81px;
+    text-align: center;
+}
+.skills > h1:nth-child(2) {
+    color: black;
+    font-family: "Montserrat";
+    position: relative;
+    font-weight: 600;
+    font-size: 81px;
+    position: relative;
+    left: 280px;
+    bottom: 140px;
+}
+.p {
+    width: 474px;
+    height: 96px;
+    position: relative;
+    left: 970px;
+    bottom: 1150px;
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-size: 21px;
+}
+.enroll {
+    position: relative;
+    left: 970px;
+    bottom: 1720px;
+}
+.arrow {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 908px;
+    bottom: 1735px;
+}
+.taw {
+    width: 861.62px;
+    height: 616px;
+    position: relative;
+    left: 50px;
+    bottom: 1059px;
+}
+.right {
+    width: 106px;
+    height: 198px;
+    position: relative;
+    left: 265px;
+    bottom: 1450px;
+}
+.curly {
+    position: relative;
+    right: 1100px;
+    bottom: 1450px;
+}
+.left {
+    position: relative;
+    bottom: 1430px;
+    right: 10px;
+}
+.ambot {
+    width: 1138px;
+    height: 88px;
+    position: relative;
+    bottom: 1230px;
+    right: 62px;
+}
+.curly2 {
+    position: relative;
+    bottom: 1386px;
+    right: 53px;
+}
+.wee{
+    background-color: RGB(253, 246, 228);
+    width: 1512px;
+    height: 680px;
+    position: relative;
+    bottom: 1150px;
+}
+.wee > h1 {
+    font-family: "Montserrat";
+    position: relative;
+    top: 100px;
+    left: 950px;
+    font-weight: 500;
+    font-size: 65px;
+}
+.deym {
+    width: 771px;
+    height: 520px;
+    position: relative;
+    bottom: 1770px;
+    left: 93px;
+}
+.smart {
+    border: 2px solid black;
+    background-color: RGB(249, 194, 101);
+    border-radius: 50px;
+    width: 203px;
+    height: 75px;
+    position: relative;
+    left: 930px;
+    bottom: 2160px;
+}
+.smart > h1:nth-child(1) {
+    font-family: "pattaya";
+    position: relative;
+    left: 23px;
+    bottom: 43px;
+    font-weight: 400;
+    font-size: 65px;
+}
+.smart > h1:nth-child(2) {
+    font-family: "Montserrat";
+    position: relative;
+    left: 227px;
+    bottom: 165px;
+    font-weight: 500;
+    font-size: 65px;
+}
+.smart > h1:nth-child(3) {
+    font-family: "Montserrat";
+    position: relative;
+    left: 20px;
+    bottom: 210px;
+    font-weight: 500;
+    font-size: 65px;
+}
+.des {
+    width: 467px;
+    height: 189px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 25px;
+    position: relative;
+    left: 956px;
+    bottom: 2050px;
+}
+.tae {
+    background-color: RGB(247, 247, 247);
+    width: 1512px;
+    height: 1095px;
+    position: relative;
+    bottom: 1992px;
+}
+.tae > img {
+    width: 1244px;
+    height: 822px;
+    position: relative;
+    left: 134px;
+    top: 120px;
+}
+.pop {
+    background-color: black;
+    width: 1512px;
+    height: 1070px;
+    position: relative;
+    bottom: 2040px;
+}
+.pop > h2:nth-child(1) {
+    color: white;
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 103px;
+    right: 110px;
+}
+.pop > h2:nth-child(2) {
+    width: 200px;
+    border-radius: 90px;
+    border: 2px solid RGB(249, 194, 101);
+    background-color: black;
+    color: RGB(249, 194, 101);
+    font-family: "pattaya";
+    font-weight: 600;
+    font-size: 50px;
+    position: relative;
+    left: 760px;
+    text-align: center;
+}
+.first2 {
+    position: relative;
+    bottom: 2880px;
+    left: 132px;
+}
+.sec {
+    position: relative;
+    bottom: 2880px;
+    left: 190px;
+}
+.third {
+    position: relative;
+    bottom: 2880px;
+    left: 250px;
+}
+.lesgo {
+    position: relative;
+    bottom: 3780px;
+    left: 106px;
+}
+.try2 {
+    font-family: "Montserrat";
+    position: relative;
+    left: 460px;
+    bottom: 3760px;
+    font-weight: 700;
+    font-size: 51px;
+    width: 588px;
+    text-align: center;
+}
+.on2 {
+    font-family: "Montserrat";
+    position: relative;
+    left: 590px;
+    bottom: 3790px;
+    font-weight: 700;
+    font-size: 51px;
+    width: 588px;
+}
+.mobile2 {
+    background-color: #F9C265;
+    font-family: "pattaya";
+    position: relative;
+    left: 670px;
+    bottom: 3900px;
+    font-weight: 400;
+    font-size: 51px;
+    width: 240px;
+    border-radius: 100px;
+    text-align: center;
+    border: 2px solid black;
+}
+.she2 {
+    width: 320.61px;
+    height: 71px;
+    left: 571px;
+    position: relative;
+    bottom: 3910px;
+}
+.meowk2 {
+    width: 1230px;
+    height: 353px;
+    position: relative;
+    left: 153px;
+    bottom: 3797px;
+}
+.bg2 {
+    width: 1512px;
+    height: 962px;
+    position: relative;
+    bottom: 2530px;
 }
