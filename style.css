@@ -1,3 +1,12 @@
+.course {
+    font-family: "Montserrat";
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    position: relative;
+    left: 270px;
+    font-size: 20px;
+}
 a {
     font-family: "Montserrat";
     text-decoration: none;
@@ -31,7 +40,7 @@ a {
     display: inline-block;
     position: relative;
     left: 270px;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 20px;
 }
 .container1 > h3:nth-child(4) {
@@ -74,13 +83,13 @@ a {
 .okay {
     position: relative;
     left: 106px;
-    bottom: 1650px;
+    bottom: 1670px;
 }
 .bg {
     width: 1550px;
     height: 962px;
     position: relative;
-    bottom: 400px; 
+    bottom: 440px; 
 }
 .button {
     font-family: "Montserrat";
@@ -174,4 +183,126 @@ a {
     position: relative;
     left: 830px;
     bottom: 570px;
+}
+.try {
+    font-family: "Montserrat";
+    position: relative;
+    left: 460px;
+    bottom: 1600px;
+    font-weight: 700;
+    font-size: 51px;
+    width: 588px;
+    text-align: center;
+}
+.on {
+    font-family: "Montserrat";
+    position: relative;
+    left: 590px;
+    bottom: 1630px;
+    font-weight: 700;
+    font-size: 51px;
+    width: 588px;
+}
+.mobile {
+    background-color: #F9C265;
+    font-family: "pattaya";
+    position: relative;
+    left: 670px;
+    bottom: 1737px;
+    font-weight: 400;
+    font-size: 51px;
+    width: 240px;
+    border-radius: 100px;
+    text-align: center;
+    border: 2px solid black;
+}
+.she {
+    width: 320.61px;
+    height: 71px;
+    left: 571px;
+    position: relative;
+    bottom: 1750px;
+}
+.meowk {
+    width: 1230px;
+    height: 353px;
+    position: relative;
+    left: 153px;
+    bottom: 1657px;
+}
+.home {
+    width: 100%;
+    padding: 10px;
+    color: #ffffff;
+    margin-top: 50px;
+    background-color: #F9C265;
+    position: relative;
+    bottom: 50px;
+    right: 10px;
+    color: black;
+}
+.home > h3:nth-child(1) {
+    font-family: "Montserrat";
+    display: inline-block;
+    font-weight: 700;
+    position: relative;
+    left: 125px;
+    font-size: 20px;
+}
+.home > h3:nth-child(2) {
+    font-family: "Montserrat";
+    display: inline-block;
+    font-weight: 600;
+    position: relative;
+    left: 200px;
+    font-size: 20px;
+}
+.home > h3:nth-child(3) {
+    font-family: "Montserrat";
+    display: inline-block;
+    position: relative;
+    left: 370px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.home > h3:nth-child(4) {
+    font-family: "Montserrat";
+    display: inline-block;
+    position: relative;
+    left: 1080px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.button2 {
+    font-family: "Montserrat";
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    position: relative;
+    left: 1080px;
+    font-weight: 400;
+    font-size: 15px;
+}
+.monac {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 135px;
+}
+.improve {
+    background-color: #F9C265;
+    height: 865px;
+    width: 100%;
+    padding: 10px;
+    position: relative;
+    bottom: 140px;
+    right: 8px;
+}
+.improve > h1 {
+    font-family: "Montserrat";
+    position: relative;
+    left: 120px;
+    font-weight: 600;
+    font-size: 81px;
 }
