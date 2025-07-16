@@ -337,7 +337,7 @@ a {
     font-size: 81px;
     position: relative;
     left: 280px;
-    bottom: 140px;
+    bottom: 160px;
 }
 .p {
     width: 474px;
@@ -372,7 +372,7 @@ a {
     width: 106px;
     height: 198px;
     position: relative;
-    left: 265px;
+    left: 283px;
     bottom: 1450px;
 }
 .curly {
@@ -399,7 +399,7 @@ a {
 }
 .wee{
     background-color: RGB(253, 246, 228);
-    width: 1512px;
+    width: 1530px;
     height: 680px;
     position: relative;
     bottom: 1150px;
@@ -433,15 +433,15 @@ a {
     font-family: "pattaya";
     position: relative;
     left: 23px;
-    bottom: 43px;
+    bottom: 48px;
     font-weight: 400;
     font-size: 65px;
 }
 .smart > h1:nth-child(2) {
     font-family: "Montserrat";
     position: relative;
-    left: 227px;
-    bottom: 165px;
+    left: 220px;
+    bottom: 179px;
     font-weight: 500;
     font-size: 65px;
 }
@@ -465,7 +465,7 @@ a {
 }
 .tae {
     background-color: RGB(247, 247, 247);
-    width: 1512px;
+    width: 1530px;
     height: 1095px;
     position: relative;
     bottom: 1992px;
@@ -479,7 +479,7 @@ a {
 }
 .pop {
     background-color: black;
-    width: 1512px;
+    width: 1530px;
     height: 1070px;
     position: relative;
     bottom: 2040px;
@@ -495,7 +495,7 @@ a {
     right: 110px;
 }
 .pop > h2:nth-child(2) {
-    width: 200px;
+    width: 160px;
     border-radius: 90px;
     border: 2px solid RGB(249, 194, 101);
     background-color: black;
@@ -571,10 +571,10 @@ a {
     height: 353px;
     position: relative;
     left: 153px;
-    bottom: 3797px;
+    bottom: 3750px;
 }
 .bg2 {
-    width: 1512px;
+    width: 1530px;
     height: 962px;
     position: relative;
     bottom: 2530px;
