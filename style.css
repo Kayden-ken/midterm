@@ -579,3 +579,119 @@ a {
     position: relative;
     bottom: 2530px;
 }
+.last {
+    background-color: #1D1D1D;
+    width: 1230px;
+    height: 353px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    position: relative;
+    left: 153px;
+    bottom: 1657px;
+}
+.lastm {
+    position: relative;
+    left: 40px;
+    top: 37px;
+}
+.last > p {
+    font-family: "Montserrat";
+    color: #BFBFBF;
+    position: relative;
+    left: 50px;
+    top: 50px;
+    font-weight: 500;
+    font-size: 21px;
+    width: 474px;
+    height: 96px;
+    line-height: 150%;
+    letter-spacing: 3%px;
+}
+.last > h3 {
+    font-family: "Montserrat";
+    color: #BFBFBF;
+    position: relative;
+    left: 50px;
+    top: 78px;
+    font-weight: 500;
+    font-size: 21px;
+    width: 474px;
+    height: 96px;
+    line-height: 150%;
+    letter-spacing: 3%px;
+}
+.c  {
+    font-family: "Montserrat";
+    color: white;
+    position: relative;
+    left: 560px;
+    bottom: 265px;
+    font-weight: 700;
+    font-size: 21px;
+    width: 474px;
+    height: 96px;
+    line-height: 150%;
+    letter-spacing: 3%px;
+}
+.r  {
+    font-family: "Montserrat";
+    color: white;
+    position: relative;
+    left: 760px;
+    bottom: 379px;
+    font-weight: 700;
+    font-size: 21px;
+    width: 474px;
+    height: 96px;
+    line-height: 150%;
+    letter-spacing: 3%px;
+}
+.Pp {
+    font-family: "Montserrat";
+    color: white;
+    position: relative;
+    left: 1016px;
+    bottom: 492px;
+    font-weight: 700;
+    font-size: 21px;
+    width: 474px;
+    height: 96px;
+    line-height: 150%;
+    letter-spacing: 3%px;
+}
+.saging {
+    font-family: "Montserrat";
+    color: #BFBFBF;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 212%;
+    letter-spacing: 3%;
+    position: relative;
+    bottom: 1880px;
+    left: 713px;
+    list-style: none;
+}
+.dragonfruit {
+    font-family: "Montserrat";
+    color: #BFBFBF;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 212%;
+    letter-spacing: 3%;
+    position: relative;
+    bottom: 2014px;
+    left: 915px;
+    list-style: none;
+}
+.saging2 {
+    font-family: "Montserrat";
+    color: #BFBFBF;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 212%;
+    letter-spacing: 3%;
+    position: relative;
+    bottom: 2147px;
+    left: 1170px;
+    list-style: none;
+}
