@@ -96,7 +96,7 @@ a {
     bottom: 730px;
 }
 .tc {
-    background-color: RGB(249, 194, 101);
+    background-color: black;
     width: 1277px;
     height: 373px;
     border-radius: 40px;
@@ -105,6 +105,7 @@ a {
     bottom: 1680px;
 }
 .tc > p {
+    color: white;
     font-family: "Montserrat";
     position: relative;
     left: 657px;
@@ -117,6 +118,7 @@ a {
     letter-spacing: 3%;
 }
 .tc > h2:nth-child(1) {
+    color: white;
     font-family: "Montserrat";
     font-weight: 600;
     font-size: 48px;
@@ -127,6 +129,7 @@ a {
     left: 650px;
 }
 .tc > h2:nth-child(2) {
+    color: white;
     font-family: "pattaya";
     font-weight: 400;
     font-size: 48px;
@@ -137,6 +140,7 @@ a {
     bottom: 17px;
 }
 .tc > h2:nth-child(3) {
+    color: white;
     font-family: "Montserrat";
     font-weight: 600;
     font-size: 48px;
@@ -147,11 +151,11 @@ a {
     bottom: 132px;
 }
 .tc > h3 {
-    background-color: black;
+    background-color: #F9C265;
     border-radius: 50px;
     width: 190px;
     height: 55px;
-    color: RGB(249, 194, 101);
+    color: black;
     font-family: "montserrat";
     font-size: 17px;
     font-weight: 700;
@@ -377,7 +381,7 @@ a {
     font-weight: 400;
     font-size: 51px;
     width: 240px;
-    border-radius: 100px;
+    border-radius: 20px;
     text-align: center;
     border: 2px solid black;
 }
@@ -638,7 +642,7 @@ a {
     width: 1530px;
     height: 1070px;
     position: relative;
-    bottom: 2040px;
+    bottom: 4020px;
 }
 .pop > h2:nth-child(1) {
     color: white;
@@ -648,7 +652,7 @@ a {
     text-align: center;
     position: relative;
     top: 103px;
-    right: 110px;
+    right: 70px;
 }
 .pop > h2:nth-child(2) {
     width: 160px;
@@ -660,7 +664,7 @@ a {
     font-weight: 600;
     font-size: 50px;
     position: relative;
-    left: 760px;
+    left: 810px;
     text-align: center;
 }
 .four {
@@ -670,7 +674,7 @@ a {
     height: 478px;
     position: relative;
     left: 157px;
-    bottom: 2860px;
+    bottom: 4860px;
 }
 .fourth {
     color: RGB(181, 181, 181);
@@ -1189,4 +1193,203 @@ a {
     position: relative;
     bottom: 5214px;
     left: 1000px;
+}
+.bad {
+    background-color: black;
+    width: 806px;
+    height: 383px;
+    position: relative;
+    bottom: 3020px;
+    left: 140px;
+    border-radius: 20px;
+}
+.bad > img {
+    position: relative;
+    bottom: 340px;
+    left: 20px;
+}
+.bad > h2:nth-child(1) {
+    font-family: "Montserrat";
+    color: white;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 150%;
+    letter-spacing: 3%;
+    position: relative;
+    top: 30px;
+    left: 68px;
+}
+.bad > h2:nth-child(2) {
+    font-family: "Pattaya";
+    color: #F9C265;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 150%;
+    letter-spacing: 3%;
+    position: relative;
+    bottom: 84px;
+    left: 190px;
+}
+.bad > h2:nth-child(3) {
+    font-family: "Montserrat";
+    color: white;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 150%;
+    letter-spacing: 3%;
+    position: relative;
+    bottom: 130px;
+    left: 68px;
+}
+.bad > h3 {
+    background-color: #F9C265;
+    width: 277px;
+    height: 82px;
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 50px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 70px;
+    bottom: 180px;
+}
+.amazing {
+    border-radius: 10px;
+    background-color: white;
+    width: 378px;
+    height: 380px;
+    position: relative;
+    left: 140px;
+    bottom: 2965px;
+}
+.amazing > img {
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.amazing > h2 {
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 28px;
+    position: relative;
+    top: 10px;
+    left: 33px;
+}
+.amazing > p {
+    width: 306px;
+    height: 102px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 171%;
+    letter-spacing: 3%;
+    position: relative;
+    top: 20px;
+    left: 33px;
+}
+.amazing2 {
+    border-radius: 10px;
+    background-color: white;
+    width: 378px;
+    height: 380px;
+    position: relative;
+    left: 568px;
+    bottom: 3345px;
+}
+.amazing2 > img {
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.amazing2 > h2 {
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 28px;
+    position: relative;
+    top: 10px;
+    left: 33px;
+}
+.amazing2 > p {
+    width: 306px;
+    height: 102px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 171%;
+    letter-spacing: 3%;
+    position: relative;
+    top: 20px;
+    left: 33px;
+}
+.amazing3 {
+    border-radius: 10px;
+    background-color: white;
+    width: 378px;
+    height: 380px;
+    position: relative;
+    left: 1000px;
+    bottom: 4157px;
+}
+.amazing3 > img {
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.amazing3 > h2 {
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 28px;
+    position: relative;
+    top: 10px;
+    left: 33px;
+}
+.amazing3 > p {
+    width: 306px;
+    height: 102px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 171%;
+    letter-spacing: 3%;
+    position: relative;
+    top: 20px;
+    left: 33px;
+}
+.amazing4 {
+    border-radius: 10px;
+    background-color: white;
+    width: 378px;
+    height: 380px;
+    position: relative;
+    left: 1000px;
+    bottom: 4106px;
+}
+.amazing4 > img {
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.amazing4 > h2 {
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 28px;
+    position: relative;
+    top: 10px;
+    left: 33px;
+}
+.amazing4 > p {
+    width: 306px;
+    height: 102px;
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 171%;
+    letter-spacing: 3%;
+    position: relative;
+    top: 20px;
+    left: 33px;
 }
